@@ -1,6 +1,6 @@
 # gnome-shell-extension-caffeine
 
-Fill the cup to inhibit auto suspend and screensaver.
+Fill the cup to inhibit auto suspend and screensaver.very funny test.
 
 This extension supports gnome-shell 3.4 to 3.22.
 
